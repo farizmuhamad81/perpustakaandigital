@@ -9,7 +9,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 5. [Laut Bercerita](ebook/Laut%20Bercerita.pdf) – Leila S. Chudori (2017)
 6. [Made With Creative Commons](ebook/Made%20With%20Creative%20Commons.pdf) – Paul Stacey & Sarah Hinchliff Pearson (2017)
 7. [progit](ebook/progit.pdf)  – Scott Chacon & Ben Straub
-8. [Sapiens](ebook/Sapiens.pdf) – Yuval Noah Harari
+8. [Sapiens](ebook/Sapiens.pdf) – Yuval Noah Harari (2011)
 9. [Sang Alkemis](ebook/Sang%20Alkemis.pdf) – Paulo Coelho (2005)
 10. [The Midnight Library](ebook/The%20Midnight%20Library.pdf) – Matt Haig (2020)
 
