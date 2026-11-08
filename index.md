@@ -11,6 +11,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 7. [progit](ebook/progit.pdf)  – Scott Chacon & Ben Straub
 8. [Sapiens](ebook/Sapiens.pdf) – Yuval Noah Harari
 9. [Sang Alkemis](ebook/Sang%20Alkemis.pdf) – Paulo Coelho (2005)
-10.[The Midnight Library](ebook/The%20Midnight%20Library.pdf) – Matt Haig (2020)
----
+10. [The Midnight Library](ebook/The%20Midnight%20Library.pdf) – Matt Haig (2020)
+
 Powered by GitHub Pages
