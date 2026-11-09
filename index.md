@@ -12,9 +12,12 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Sapiens](ebook/Sapiens.pdf) – Yuval Noah Harari (2011)
 9. [Sang Alkemis](ebook/Sang%20Alkemis.pdf) – Paulo Coelho (2005)
 10. [The Midnight Library](ebook/The%20Midnight%20Library.pdf) – Matt Haig (2020)
-11. [Ringkasan UGC](ebook/Ringkasan_UGC) - Muhammad Fariz Nur Akbar
+11. [Ringkasan_UGC](ebook/Ringkasan_UGC) - Muhammad Fariz Nur Akbar
 
-Muhammad
+# Muhammad Fariz Nur Akbar
+## 13040124140157
+### D
+
 
 
 Powered by GitHub Pages
